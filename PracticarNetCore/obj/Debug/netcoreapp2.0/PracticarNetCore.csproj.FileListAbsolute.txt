@@ -1,0 +1,11 @@
+C:\Users\wilmer.ramirez\source\repos\PracticarNetCore\PracticarNetCore\bin\Debug\netcoreapp2.0\PracticarNetCore.deps.json
+C:\Users\wilmer.ramirez\source\repos\PracticarNetCore\PracticarNetCore\bin\Debug\netcoreapp2.0\PracticarNetCore.runtimeconfig.json
+C:\Users\wilmer.ramirez\source\repos\PracticarNetCore\PracticarNetCore\bin\Debug\netcoreapp2.0\PracticarNetCore.runtimeconfig.dev.json
+C:\Users\wilmer.ramirez\source\repos\PracticarNetCore\PracticarNetCore\bin\Debug\netcoreapp2.0\PracticarNetCore.dll
+C:\Users\wilmer.ramirez\source\repos\PracticarNetCore\PracticarNetCore\bin\Debug\netcoreapp2.0\PracticarNetCore.pdb
+C:\Users\wilmer.ramirez\source\repos\PracticarNetCore\PracticarNetCore\obj\Debug\netcoreapp2.0\PracticarNetCore.csprojAssemblyReference.cache
+C:\Users\wilmer.ramirez\source\repos\PracticarNetCore\PracticarNetCore\obj\Debug\netcoreapp2.0\PracticarNetCore.csproj.CoreCompileInputs.cache
+C:\Users\wilmer.ramirez\source\repos\PracticarNetCore\PracticarNetCore\obj\Debug\netcoreapp2.0\PracticarNetCore.AssemblyInfoInputs.cache
+C:\Users\wilmer.ramirez\source\repos\PracticarNetCore\PracticarNetCore\obj\Debug\netcoreapp2.0\PracticarNetCore.AssemblyInfo.cs
+C:\Users\wilmer.ramirez\source\repos\PracticarNetCore\PracticarNetCore\obj\Debug\netcoreapp2.0\PracticarNetCore.dll
+C:\Users\wilmer.ramirez\source\repos\PracticarNetCore\PracticarNetCore\obj\Debug\netcoreapp2.0\PracticarNetCore.pdb
